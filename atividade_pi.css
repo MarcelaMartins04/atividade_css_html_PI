@@ -1,0 +1,80 @@
+
+
+.card1{
+    background-color: #941414;
+    width: 1000px;
+    height: 750px;
+    border-radius: 100px;
+    border: solid 30px rgb(31, 52, 170);
+    margin-bottom: 40px ;
+
+   }
+
+   .card2{
+       background-color: #dd67e7;
+       width: 50%;
+       height: 50%;
+       border-radius: 25px;
+       border: solid 5px rgb(102, 236, 174);
+       margin-bottom: 20px ;
+
+   }
+
+   .card3 {
+       background-color: rgb(232, 247, 151);
+        width: 50vw; 
+        height: 70vh;
+        
+
+   }
+
+   .card4 {
+       background-color: rgb(255, 167, 181);
+        width: 60vw;
+       height: 40%;
+       border-radius: 25px;
+       border: solid 10px rgb(247, 0, 152);
+       margin-bottom: 40px ;
+
+   }
+
+   .text {
+       color: #f7f8f7; background-color: #5112e4;
+        font-size: 40px;
+        font-family:  Georgia, serif; 
+        font-weight: bold;
+
+   }
+
+   .text2 {
+       color: #f500ac; background-color: #71e2c0;
+        font-size: 50px;
+        font-family:  Georgia, serif; 
+        font-weight: bold;
+
+   }
+
+   .text3 {
+    color: #fdfdfd; background-color: #4d0808;
+     font-size: 80px;
+     font-family:  Georgia, serif; 
+     font-weight: bold;
+
+}
+.text4 {
+    color: #f10761; background-color: #f169bd;
+     font-size: 150px;
+     font-family:  Georgia, serif; 
+     font-weight: bold;
+
+}
+
+.text4 {
+    color: #af07f1; background-color: #00fae5;
+     font-size: 200px;
+     font-family:  Georgia, serif; 
+     font-weight: bold;
+
+}
+
+
